@@ -1,0 +1,51 @@
+html {
+    background-color: #252525;
+    color: white;
+}
+
+body {
+  font-family: 'Drios sans', monospace;
+  background-color: black;
+  font-size: 16px
+}
+
+
+
+
+
+
+
+
+tr{
+color:white;
+font-size: 14px;
+}
+
+
+
+
+
+
+.tiet {
+  width: 100%;
+  height: 50px;
+  background-color: blue;
+
+}
+.tiet h1{
+color: white;
+
+}
+
+
+
+
+
+
+
+.bottom {
+width:100%;
+height: 20px;
+background-color: blue;
+
+}

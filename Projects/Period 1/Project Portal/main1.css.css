@@ -1,0 +1,61 @@
+body {
+	margin: 0px;
+	background-image: url("https://4.bp.blogspot.com/-EWDTcSQ9bVI/TgXRiqnVwsI/AAAAAAAAIuY/X9NIt4A-new/s1600/Natuur-achtergronden-hd-natuur-wallpapers-afbeelding-foto-24.jpg");
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: grey;
+  height: 1000px;
+  overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+        background-color: #4CAF50;
+        color: white;
+}
+
+li a:hover:not(.active)   {
+  background-color: #555;
+  color: white;
+}
+
+footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+		font-family: arial rounded mt bold;
+
+}
+
+
+                .topbar {
+
+									width: 100%;
+									padding: 9px;
+									text-align: left;
+									background-color: white;
+
+											}
+
+
+									.topbar h1 {
+										color: black;
+										font-family: arial black;
+									}

@@ -1,0 +1,28 @@
+body {
+    margin: 0 auto;
+    background-image: url("https://newevolutiondesigns.com/images/freebies/city-wallpaper-46.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+}
+
+.container {
+width: 500px;
+height: 400px;
+text-align: center;
+background-color: rgba(52, 73, 94,0.7);
+border-radius: 4px;
+margin: 0 auto;
+margin-top: 150px;
+}
+
+
+input {
+height: 45px;
+width: 300px;
+font-size: 18px;
+margin-top: 50px;
+margin-bottom: -20px;
+
+
+
+}
